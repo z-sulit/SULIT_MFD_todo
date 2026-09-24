@@ -1,9 +1,3 @@
-<div align="center">
-  <video src="4455.mp4" controls width="600" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  </video>
-  <br>
-  <i>Project Demonstration</i>
-</div>
 
 ---
 
