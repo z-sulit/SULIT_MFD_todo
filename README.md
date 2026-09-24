@@ -1,10 +1,9 @@
 <div align="center">
-  <!-- GitHub doesn't support embedded <video> tags natively, so this uses a clickable placeholder image. Replace 'YOUR_VIDEO_LINK' and 'YOUR_THUMBNAIL_URL' with your actual links. -->
-  <a href="YOUR_VIDEO_LINK">
-    <img src="https://via.placeholder.com/600x338.png?text=Play+Demo+Video" alt="Watch the video" width="600" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-  </a>
+  <video src="4455.mp4" controls width="600" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    Your browser does not support the video tag.
+  </video>
   <br>
-  <i>Click the box above to watch the project demonstration.</i>
+  <i>Project Demonstration</i>
 </div>
 
 ---
