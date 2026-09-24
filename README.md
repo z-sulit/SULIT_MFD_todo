@@ -14,8 +14,6 @@
 
 This is a beginner-friendly Django web application that functions as a classic To-Do List. Built using Django 6.1.1 and styled with Bootstrap 5, it allows users to manage a simple list of tasks through a clean, intuitive web interface. 
 
-Below is a breakdown of the project's features and technical architecture.
-
 ## 🎯 Key Features
 
 *   **Add Tasks:** Users can add new to-do items using a search-style form embedded directly in the top navigation bar.
